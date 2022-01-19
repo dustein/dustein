@@ -3,7 +3,7 @@
 <h1 align="left">Hello! I'm Eduardo DuStein</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dustein&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Starting learning programming stuff. 
+- 🔥 Learning. 
 
 <!-- - 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat) -->
 
