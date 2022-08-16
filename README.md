@@ -73,8 +73,10 @@
         height="48"
         alt="Redux"
       />
+      
       <br /><strong>Node.js</strong>
     </td>
+    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
@@ -82,6 +84,7 @@
         height="48"
         alt="Express"
       />
+      <br />
       <br /><strong>Express</strong>
     </td>
     <td align="center" height="108" width="108">
