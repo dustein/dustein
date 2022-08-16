@@ -84,7 +84,7 @@
         height="48"
         alt="Express"
       />
-      <br />
+      
       <br /><strong>Express</strong>
     </td>
     <td align="center" height="108" width="108">
