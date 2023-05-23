@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat) -->
 
-- 👨‍💻 My personsal ongoing profile will be at [dustein.com](https://dustein.com)
+- 👨‍💻 My personsal ongoing profile will be at [dustein.com.br](https://dustein.com.br)
 
 <!-- - ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito) -->
 
